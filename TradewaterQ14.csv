@@ -1,0 +1,31 @@
+Project_Number,Project_Name,Project_Description,Project URL
+1,123done,DEPRECATED - Migrated to https://github.com/mozilla/fxa,https://github.com/mozilla/123done
+2,2018-global-sprint-planning,,https://github.com/mozilla/2018-global-sprint-planning
+3,able-registry-dev,Able experiment registry for non-production experiments,https://github.com/mozilla/able-registry-dev
+4,about-home-jumping-fox-game,"MOVED A little game about a fox that jumps, for about:home.",https://github.com/mozilla/about-home-jumping-fox-game
+5,about-home-persona-switcher,MOVED - about:home snippet that lets users preview and switch personas,https://github.com/mozilla/about-home-persona-switcher
+6,about-home-piano-snippet,MOVED - HTML5 Piano Snippet for the Firefox about:home page,https://github.com/mozilla/about-home-piano-snippet
+7,ace,Ajax.org Code Editor,https://github.com/mozilla/ace
+8,acidity,WIP: A checklist/test for friendly open source projects.,https://github.com/mozilla/acidity
+9,action-automatic-releases,READONLY: Auto-generated mirror for https://github.com/marvinpinto/actions/tree/master/packages/automatic-releases,https://github.com/mozilla/action-automatic-releases
+10,action-input,"A framework-agnostic input library that progressively handles flat, portal, and immersive web apps.",https://github.com/mozilla/action-input
+11,action-tmate,Debug your GitHub Actions via SSH by using tmate to get access to the runner system itself.,https://github.com/mozilla/action-tmate
+12,activate.mozilla.community,Activate campaign site,https://github.com/mozilla/activate.mozilla.community
+13,active-data-recipes,A repository of various activedata queries and recipes,https://github.com/mozilla/active-data-recipes
+14,ActiveData,Provide high speed filtering and aggregation over data,https://github.com/mozilla/ActiveData
+15,ActiveData-ETL,The ETL process responsible for filling ActiveData,https://github.com/mozilla/ActiveData-ETL
+16,ActiveData-SpotManager,,https://github.com/mozilla/ActiveData-SpotManager
+17,activities,DEPRECATED - work on open web activities and related stuff,https://github.com/mozilla/activities
+18,activity-accessible-gaming,An activty about accessible game controller design,https://github.com/mozilla/activity-accessible-gaming
+19,activity-stream,"A refreshed ""new tab page"" for Firefox",https://github.com/mozilla/activity-stream
+20,activity-stream-l10n,Strings for Activity Stream,https://github.com/mozilla/activity-stream-l10n
+21,activity-stream-okrs,These are quarterly team level OKR projects for the Activity Stream team,https://github.com/mozilla/activity-stream-okrs
+22,activity-stream-storage-prototype,A highly experimental prototype of a shared storage lib for ActivityStream,https://github.com/mozilla/activity-stream-storage-prototype
+23,ad-analysis-for-facebook,Ad Analysis for Facebook,https://github.com/mozilla/ad-analysis-for-facebook
+24,ad-analysis-for-facebook-disabled,Ad Analysis for Facebook (U.S. English) - DISABLED,https://github.com/mozilla/ad-analysis-for-facebook-disabled
+25,ad-library-download-tools,,https://github.com/mozilla/ad-library-download-tools
+26,ADBFuzz,Fuzzing Harness for Firefox Mobile on Android,https://github.com/mozilla/ADBFuzz
+27,adbhelper,A Firefox add-on to ease connecting to Firefox for Android,https://github.com/mozilla/adbhelper
+28,addon-builder-helper,A Firefox add-on that helps you use the Add-on Builder.,https://github.com/mozilla/addon-builder-helper
+29,addon-card-preview,A prototype app for previewing an add-on card.,https://github.com/mozilla/addon-card-preview
+30,addon-compatibility-reporter,Add-on Compatibility Reporter (Redux),https://github.com/mozilla/addon-compatibility-reporter
